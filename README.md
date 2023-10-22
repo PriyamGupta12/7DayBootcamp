@@ -1,2 +1,2 @@
 # 7DayBootcamp
-Author = Priyam Gupta
+Author = Priyam
